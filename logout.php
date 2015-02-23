@@ -1,5 +1,5 @@
 <?php
 
-echo "logout";
+echo "logout !! ";
 
 ?>
